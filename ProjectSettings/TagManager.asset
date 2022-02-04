@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Slider
+  - WhiteTriangle
+  - SliderDespawner
+  - InactiveSliderRegion
+  - PerfectRegion
+  - GoodRegion
+  - LeftSlider
+  - HoldSlider
+  - EditorSlider
+  - EditorStrip
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RightSlider
+    uniqueID: 98697657
+    locked: 0
+  - name: LeftSlider
+    uniqueID: 999290683
+    locked: 0
